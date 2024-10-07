@@ -1,4 +1,4 @@
-# CSS 204 Statistical Computing and Inference from Data I  
+# CSS 204 StatComp Inference Data I  
 ## Problem Set #1: Version Control 
 ### Sub-Subheading 
 
