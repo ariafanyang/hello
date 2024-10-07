@@ -1,0 +1,8 @@
+# 忽略 Mac 系统生成的文件
+.DS_Store
+
+# 忽略 R 的历史记录文件
+.Rhistory
+
+# 忽略 IDE 生成的配置文件夹
+.idea/
